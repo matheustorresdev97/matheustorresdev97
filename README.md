@@ -1,6 +1,6 @@
 # Matheus Torres  
 
-Formado em **Análise e Desenvolvimento de Sistemas** (2022) e atualmente cursando **Ciência da Computação**. Sou apaixonado por tecnologia e inovação, sempre em busca de aprimorar minhas habilidades e aprender coisas novas.  
+Formado em **Análise e Desenvolvimento de Sistemas** (2022) Entusiasta de tecnologia e inovação, sempre em busca de aprimorar minhas habilidades e aprender coisas novas.  
 
 💻 **Foco principal**: Desenvolvimento Full Stack com especialização em **React**, **Next.js**, **Node.js** e **Spring Boot**.  
 ⚙️ **DevOps**: **Docker**, **Kubernetes**, **Kong**, e outras tecnologias que impulsionam a automação e a escalabilidade.  
